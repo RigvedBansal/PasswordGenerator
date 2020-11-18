@@ -1,0 +1,1 @@
+run program.py in the terminal
